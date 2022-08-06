@@ -23,16 +23,16 @@ Phần Client:
 + Xử lý một số tác vụ như cập nhật số lượng hàng hóa, hiển thị gợi ý khi search,... bằng Jquery Ajax.
 
 ## Công nghệ sử dụng 
-Frontend: HTML, CSS, Jquery
-Backend: PHP, Laravel 
++ Frontend: HTML, CSS, Jquery
++ Backend: PHP, Laravel 
 
 ## Số lượng thành viên tham gia: 1 
 
 ## Cấu hình project:
--File .env <br>
++ File .env <br>
 ![env](https://user-images.githubusercontent.com/58035150/183233906-6d4bf9fa-ab59-4091-831a-6454cd69968d.png) <br>
--route_prefix trong public\js\app.js <br>
++ route_prefix trong public\js\app.js <br>
 ![js](https://user-images.githubusercontent.com/58035150/183233929-dd6fb965-7d3a-495b-a4de-093ef5f81eb9.png) <br>
--path_absolute và document_base_url trong view layouts.admin <br>
++ path_absolute và document_base_url trong view layouts.admin <br>
 ![layout](https://user-images.githubusercontent.com/58035150/183234077-6e88c454-d52b-4ae5-aa56-4c121a1f5acd.png) <br>
 
