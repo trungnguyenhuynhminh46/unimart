@@ -1,4 +1,4 @@
-<h1 align="center">Trang thương mại điện tử sửa dụng Laravel</h1>
+<h1 align="center">Trang thương mại điện tử sử dụng Laravel</h1>
 <div align="center">
   <sub>The ecommerce project. Built with ❤︎ by
     <a href="https://github.com/trungnguyenhuynhminh46">Nguyễn Huỳnh Minh Trung</a>
