@@ -7,6 +7,10 @@
 
 # Xây dựng trang thương mại điện tử sử dụng Laravel
 
+## Link demo:
++ Phần client: https://minhtrung.unitopcv.com/
++ Phần admin: https://minhtrung.unitopcv.com/admin
+
 ## Các tính năng chính
 Phần admin:
 
