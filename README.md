@@ -23,7 +23,7 @@ Phần Client:
 + Xử lý một số tác vụ như cập nhật số lượng hàng hóa, hiển thị gợi ý khi search,... bằng Jquery Ajax.
 
 ## Công nghệ sử dụng 
-+ Frontend: HTML, CSS, Jquery
++ Frontend: HTML, CSS, Javascript, Jquery
 + Backend: PHP, Laravel 
 
 ## Số lượng thành viên tham gia: 1 
