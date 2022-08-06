@@ -9,86 +9,34 @@
   </sub>
 </div>
 
-<br />
-<div align="center">
-  <img src="https://github.com/RafaelGoulartB/Ecommerce-Quantum/blob/master/Ecommerce.jpg" width="720">
-</div>
+# Xây dựng trang thương mại điện tử sử dụng Laravel
 
----
+## Các tính năng chính
+Phần admin:
 
-# :pushpin: Table of Contents
++ Đăng nhập, đăng ký, quên mật khẩu người quản lý.
++ CRUD trang, sản phẩm, bài viết.
++ Hiển thị, tìm kiếm cái trang, sản phẩm bài viết.
++ Xem các hóa đơn do người dùng tạo và thống kê doanh thu.
 
-* [Demo Website](#eyes-demo-website)
-* [Technologies](#computer-technologies)
-* [Features](#rocket-features)
-* [How to run](#construction_worker-how-to-run)
-* [Found a bug? Missing a specific feature?](#bug-issues)
-* [Contributing](#tada-contributing)
-* [License](#closed_book-license)
+Phần Client:
 
-<h2 align="left"> 📥 Layout available at: </h2>
-<p align="center">
-    <a title="Acess Figma Web" href="https://www.figma.com/file/fDLkOXAz4k3ILWb8PoDivJZF/E-Commerce-Quantum?node-id=0%3A1">
-        <img alt="Direct Download" src="https://img.shields.io/badge/Acess Figma Web-black?style=flat-square&logo=figma&logoColor=red" width="200px" />
-    </a>
-</p>
++ Đăng nhập, đăng ký, quên mật khẩu khách hàng
++Đổ dữ liệu về trang, sản phẩm bài viết lên giao diện, hiển thị các sản phẩm được mua/xem nhiều.
++Xử lý mua sản phẩm (Shopping cart)
++Xử lý một số tác vụ như cập nhật số lượng hàng hóa, hiển thị gợi ý khi search,... bằng Jquery Ajax.
 
-# :eyes: Demo Website
-👉  demo: https://ecommerce-quantum.herokuapp.com/
+## Công nghệ sử dụng 
+Frontend: HTML, CSS, Jquery
+Backend: PHP, Laravel 
 
-# :computer: Technologies
-This project was made using the follow technologies:
-<ul>
-  <li><a href="https://nodejs.org/en/">Node.js</a></li>
-  <li><a href="https://expressjs.com/">Express</a></li>
-  <li><a href="https://github.com/mysqljs/mysql">Mysql</a></li>
-  <li><a href="https://www.npmjs.com/package/express-handlebars">Express Handlebars</a></li>
-  <li><a href="https://eslint.org/">Eslint</a></li>
-</ul>   
+## Số lượng thành viên tham gia: 1 
 
-# :rocket: Features
+## Cấu hình project:
+-File .env
+![env](https://user-images.githubusercontent.com/58035150/183233906-6d4bf9fa-ab59-4091-831a-6454cd69968d.png)
+-route_prefix trong public\js\app.js
+![js](https://user-images.githubusercontent.com/58035150/183233929-dd6fb965-7d3a-495b-a4de-093ef5f81eb9.png)
+-path_absolute và document_base_url trong view layouts.admin
+![layout](https://user-images.githubusercontent.com/58035150/183234077-6e88c454-d52b-4ae5-aa56-4c121a1f5acd.png)
 
-- List Products
-- Filter products by Category
-- Add products to Wishlist
-- Add products to Cart
-  
-# :construction_worker: How to run
-## Install
-
-```sh
-npm install
-```
-## Usage
-
-```sh
-npm run start
-```
-## Dev Mode
-
-```sh
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-# :bug: Issues
-
-Feel free to **file a new issue** with a respective title and description on the the [NodeJS Ecommerce](https://github.com/RafaelGoulartB/nodejs-ecommerce/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
-
-# :tada: Contributing
-First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
-
-Here's some tips:
-
-* Check the [issues page](https://github.com/RafaelGoulartB/nodejs-ecommerce/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
-* Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
-
-Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
-
-# :closed_book: License
-
-Released in 2020.
-This project is under the [MIT license](./LICENSE).
-
-Made with love by [RafaelGoulartB](https://github.com/RafaelGoulartB) 🚀
