@@ -28,7 +28,7 @@ Phần Client:
 
 ## Công nghệ sử dụng 
 + Frontend: HTML, CSS, Javascript, Jquery
-+ Backend: PHP, Laravel 
++ Backend: PHP, Laravel v7.12
 
 ## Số lượng thành viên tham gia: 1 
 
