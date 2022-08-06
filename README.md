@@ -1,24 +1,6 @@
-<h1 align="center">Ecommerce made with Node.js - MVC</h1>
+<h1 align="center">Trang thương mại điện tử sửa dụng Laravel</h1>
 
-<p align="center">	
-   <a href="https://www.linkedin.com/in/rafael-goulartb/">
-      <img alt="Rafael Goulart" src="https://img.shields.io/badge/-RafaelGoulartB-03B0E8?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-  <a href="https://github.com/RafaelGoulartB/nodejs-ecommerce#readme">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-03B0E8.svg" target="_blank" />
-  </a>
-  <a href="https://github.com/RafaelGoulartB/nodejs-ecommerce/graphs/commit-activity">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-03B0E8.svg" target="_blank" />
-  </a>
-  <a href="https://github.com/RafaelGoulartB/nodejs-ecommerce/blob/master/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-03B0E8.svg" target="_blank" />
-  </a>
-  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/RafaelGoulartB/nodejs-ecommerce?color=03B0E8" />
-  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/RafaelGoulartB/nodejs-ecommerce?color=03B0E8" />
-  <img alt="" src="https://img.shields.io/github/repo-size/RafaelGoulartB/nodejs-ecommerce?color=03B0E8" />
-</p>
-
-> Ecommerce made with Node.js - MVC
+> Trang thương mại điện tử sửa dụng Laravel
 
 
 <div align="center">
