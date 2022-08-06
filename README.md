@@ -5,10 +5,7 @@
 
 <div align="center">
   <sub>The ecommerce project. Built with ❤︎ by
-    <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
-    <a href="https://github.com/RafaelGoulartB/nodejs-ecommerce/graphs/contributors">
-      contributors
-    </a>
+    <a href="https://github.com/trungnguyenhuynhminh46">Nguyễn Huỳnh Minh Trung</a>
   </sub>
 </div>
 
