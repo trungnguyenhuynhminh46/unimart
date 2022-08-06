@@ -17,10 +17,10 @@ Phần admin:
 
 Phần Client:
 
-+ Đăng nhập, đăng ký, quên mật khẩu khách hàng
-+Đổ dữ liệu về trang, sản phẩm bài viết lên giao diện, hiển thị các sản phẩm được mua/xem nhiều.
-+Xử lý mua sản phẩm (Shopping cart)
-+Xử lý một số tác vụ như cập nhật số lượng hàng hóa, hiển thị gợi ý khi search,... bằng Jquery Ajax.
++ Đăng nhập, đăng ký, quên mật khẩu khách hàng.
++ Đổ dữ liệu về trang, sản phẩm bài viết lên giao diện, hiển thị các sản phẩm được mua/xem nhiều.
++ Xử lý mua sản phẩm (Shopping cart).
++ Xử lý một số tác vụ như cập nhật số lượng hàng hóa, hiển thị gợi ý khi search,... bằng Jquery Ajax.
 
 ## Công nghệ sử dụng 
 Frontend: HTML, CSS, Jquery
